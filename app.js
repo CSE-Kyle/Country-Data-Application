@@ -6,10 +6,9 @@ document.getElementById('btn-country4').addEventListener('click', data4);
 function data1() {
   document.getElementById("country1");
 
-  country1.textContent = `
-    Country: United States of America
+    country1.textContent = `Country: United States of America
     Population: 331.9 million
-    President: Joe Biden
+    President: Joe Biden 
     Currency: US Dollar
     `;
 
